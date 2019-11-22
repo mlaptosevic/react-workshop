@@ -1,0 +1,7 @@
+Zadatak 1
+
+Izlistati sva pica
+
+- Potrebno je prikazati sve informacije o picima koji mogu da se naruce
+- Postaviti da se uporedo prikazuje sa listom pizza
+- Podaci o picima se nalaze u data/drinks.js

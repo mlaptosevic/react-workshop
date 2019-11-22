@@ -1,0 +1,9 @@
+Zadatak 3
+
+Omoguciti prikazivanje samo ili pizza ili pica
+
+- dodati dugme za prikazivanje
+- pritiskom na njega prikazuju se ili PizzaPanel ili DrinkPanel
+
+Bonus:
+- Promeniti text unutar dugmeta u zavisnosti sta se prikazuje

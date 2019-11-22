@@ -1,0 +1,10 @@
+Zadatak 2
+
+Dodati pizza i pice u korpu za kupovinu
+
+- Napraviti komponentu koja predstavalja korpu za kupovinu
+- Sastoji se od liste item-a koji imaju ime i cenu
+- Pizza i pice imaju dugme Add to Cart, koje dodaje u korpu za kupovinu selektovan item
+
+Bonus:
+- Prikazati i ukupnu cenu za sve item-e

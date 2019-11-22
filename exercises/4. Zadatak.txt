@@ -1,0 +1,11 @@
+Zadatak 4
+
+Dodati funkcionalnost da moze da se naruci ono sto je dodato u korpu za kupovinu
+
+- Napraviti formu za narucivanje
+- Forma treba da sadrzi:
+    - Ime i prezime osobe
+    - Adresu
+    - Broj kreditne kartice
+- Napraviti komponentu koja prikazuje narudzbenicu
+- Narudzbenica prikazuje podatke osobe koja je narucila, kao i sta je narucila
